@@ -1,0 +1,57 @@
+[
+  {
+    "intent": "deals",
+    "keywords": ["deal", "deals", "offer", "offers", "discount", "discounts", "combo", "combos", "promo", "special"],
+    "reply": "🔥 Desi Bites Deals\n\n• Deal 1: 1 Chicken Biryani + 1 Drink — Rs 550\n• Deal 2: Half Chicken Karahi + 4 Naan + 1.5L Drink — Rs 1,650\n• Deal 3: 2 Zinger Burgers + Fries + 2 Drinks — Rs 1,400\n• Family Deal: Full Karahi + 2 Biryani + 8 Naan + 1.5L Drink — Rs 3,800\n\n🎓 Students get 10% off with a valid card (Mon–Thu)."
+  },
+  {
+    "intent": "menu",
+    "keywords": ["menu", "price", "prices", "rate", "rates", "food", "items", "dishes", "eat", "biryani", "karahi", "burger", "naan", "tikka", "drinks"],
+    "reply": "🍛 Desi Bites Menu\n\nRice\n• Chicken Biryani — Rs 450\n• Beef Pulao — Rs 500\n\nKarahi\n• Chicken Karahi (Half) — Rs 1,200\n• Chicken Karahi (Full) — Rs 2,200\n• Mutton Karahi (Half) — Rs 2,000\n\nBBQ\n• Chicken Tikka (Leg) — Rs 400\n• Seekh Kabab (4 pcs) — Rs 600\n\nFast Food\n• Zinger Burger — Rs 550\n• Loaded Fries — Rs 450\n\nBread & Drinks\n• Naan — Rs 40\n• Roghni Naan — Rs 80\n• Soft Drink (1.5L) — Rs 250\n• Mint Margarita — Rs 300"
+  },
+  {
+    "intent": "delivery",
+    "keywords": ["delivery", "deliver", "delivered", "deliveries", "shipping", "rider", "home delivery"],
+    "reply": "🛵 Delivery\n\n• We deliver all over Sargodha city.\n• Delivery time: 30–45 minutes.\n• Delivery charges: Rs 100.\n• FREE delivery on orders above Rs 2,000."
+  },
+  {
+    "intent": "timings",
+    "keywords": ["timing", "timings", "time", "hours", "open", "opening", "close", "closing", "closed"],
+    "reply": "🕒 Timings\n\n• Monday to Sunday: 12:00 PM – 12:00 AM\n• Friday: 2:00 PM – 12:00 AM (closed for Jumma prayer)\n\nDelivery is available during all opening hours."
+  },
+  {
+    "intent": "location",
+    "keywords": ["location", "address", "where", "located", "directions", "map", "branch", "reach"],
+    "reply": "📍 Location (demo address)\n\nDesi Bites\nShop 12, Main University Road,\nNear Demo Chowk, Sargodha, Punjab\n\nFree parking is available in front of the restaurant."
+  },
+  {
+    "intent": "payment",
+    "keywords": ["payment", "payments", "pay", "paying", "cash", "card", "jazzcash", "easypaisa", "jazz cash", "bank", "transfer", "online payment"],
+    "reply": "💳 Payment Methods\n\n• Cash on delivery\n• Debit / Credit card (at the restaurant)\n• JazzCash\n• Easypaisa\n• Bank transfer\n\nFor online payments, please send a screenshot on our WhatsApp."
+  },
+  {
+    "intent": "order",
+    "keywords": ["order", "orders", "ordering", "buy", "book", "booking", "how to order", "place order"],
+    "reply": "🛒 How to Order\n\n1. Check our menu (type \"menu\").\n2. Call or WhatsApp us at 0300-1234567 (demo).\n3. Tell us your items, name and address.\n4. Pay by cash on delivery or online.\n\nYou can also visit the restaurant and order at the counter."
+  },
+  {
+    "intent": "contact",
+    "keywords": ["contact", "phone", "number", "call", "whatsapp", "email", "helpline", "mobile"],
+    "reply": "📞 Contact Us (demo details)\n\n• Phone: 0300-1234567\n• WhatsApp: 0300-1234567\n• Email: hello@desibites.demo\n\nWe reply fastest on WhatsApp."
+  },
+  {
+    "intent": "thanks",
+    "keywords": ["thanks", "thank", "thankyou", "thx", "shukriya", "shukria", "jazakallah"],
+    "reply": "You're welcome! 😊 Is there anything else I can help you with?"
+  },
+  {
+    "intent": "goodbye",
+    "keywords": ["bye", "goodbye", "allah hafiz", "khuda hafiz", "see you", "good night"],
+    "reply": "Allah Hafiz! 👋 Thank you for visiting Desi Bites. Come hungry, leave happy!"
+  },
+  {
+    "intent": "greeting",
+    "keywords": ["hi", "hello", "hey", "hy", "salam", "salaam", "assalam", "aoa", "assalamualaikum", "asalam"],
+    "reply": "Walaikum Assalam! 👋 Welcome to Desi Bites. Ask me about our menu, deals, delivery, timings, location or payment."
+  }
+]
